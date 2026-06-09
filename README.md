@@ -8,7 +8,7 @@
 
 | 版本 | 文件大小 | 下载链接 |
 |------|----------|----------|
-| v1.0.0 | 300 MB | [点击下载 APK](https://github.com/Y-TTKX/DSSC2/releases/download/v5.2.0/DSSC2.apk) |
+| v5.2.0 | 362.96 MB | [点击下载 APK](https://github.com/Y-TTKX/DSSC2/releases/download/v5.2.0/DSSC2.apk) |
 
 > ⚠️ 温馨提示：下载后如提示"禁止安装"，请在手机设置中开启"允许安装未知来源应用"。
 
