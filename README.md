@@ -8,7 +8,7 @@
 
 | 版本 | 文件大小 | 下载链接 |
 |------|----------|----------|
-| v5.2.0 | 362.96 MB | [点击下载 APK]([https://release-assets.githubusercontent.com/github-production-release-asset/1264096049/959db99f-d448-4d05-bf10-a6dc27c7ba48?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-06-09T16%3A42%3A15Z&rscd=attachment%3B+filename%3DDSSC2.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-06-09T15%3A42%3A14Z&ske=2026-06-09T16%3A42%3A15Z&sks=b&skv=2018-11-09&sig=L9Z2jHS7vIvGoMi3qb%2FJDekhwRjG7r%2BF4sJel1tuQR8%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4MTAyMzgwOCwibmJmIjoxNzgxMDIwMjA4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.JXjfgvSQKEjsT0EuA9srJJPKNDfbsiCvfn4uWIVPazg&response-content-disposition=attachment%3B%20filename%3DDSSC2.apk&response-content-type=application%2Fvnd.android.package-archive](https://github.com/Y-TTKX/DSSC2/releases/download/5.2.0/DSSC2.apk) |
+| v5.2.0 | 362.96 MB | [点击下载 APK](https://github.com/Y-TTKX/DSSC2/releases/download/5.2.0/DSSC2.apk) |
 
 > ⚠️ 温馨提示：下载后如提示"禁止安装"，请在手机设置中开启"允许安装未知来源应用"。
 
